@@ -1,4 +1,11 @@
 // SPDX-License-Identifier: MIT
+// ─────────────────────────────────────────────
+// Lindblad Protocol
+// Deployed on Arbitrum One (mainnet)
+// Address: 0x1AfC80b30cBBE50E8aBb4585f53ff530c305d416
+// Network: Arbitrum One — Chain ID 42161
+// Explorer: https://arbiscan.io/address/0x1AfC80b30cBBE50E8aBb4585f53ff530c305d416
+// ─────────────────────────────────────────────
 pragma solidity ^0.8.19;
 
 interface IERC20 {
