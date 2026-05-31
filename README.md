@@ -16,7 +16,7 @@ Solidity smart contracts for the Lindblad Protocol bridge. Deployed on Arbitrum 
 
 | Contract | Address |
 |---|---|
-| LindblabUSDT v3 | `0xDcc707CAe072A4B55678355b75ABD76489bf6985` |
+| LindblabUSDT v3 | `0x17c6d525A8D809fcBe78aBE4FCaE1F9ddb0b8fa8` |
 | LindblabUSDC v3 | `0x9964c63Af739bf8b4702E243f904570b17F33ab4` |
 
 ---
